@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Here we go, my first commit...
+Edited my new file at row 5.
 Use the left arrow to go back!
